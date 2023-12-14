@@ -1,0 +1,274 @@
+[
+    {
+        "id": "362d18",
+        "title": "Head of Legal and Corporate Governance",
+        "full_title": "Head of Legal and Corporate Governance - Legal",
+        "shortcode": "0228DD664F",
+        "code": "Legal",
+        "state": "closed",
+        "sample": false,
+        "department": "Legal",
+        "department_hierarchy": [
+            {
+                "id": 319462,
+                "name": "Corporate Affairs"
+            },
+            {
+                "id": 319470,
+                "name": "Legal"
+            }
+        ],
+        "url": "https://alpheya.workable.com/jobs/3549254",
+        "application_url": "https://alpheya.workable.com/jobs/3549254/candidates/new",
+        "shortlink": "https://apply.workable.com/j/0228DD664F",
+        "location": {
+            "location_str": "Abu Dhabi, United Arab Emirates",
+            "country": "United Arab Emirates",
+            "country_code": "AE",
+            "region": "Abu Dhabi",
+            "region_code": "Abu Dhabi",
+            "city": "Abu Dhabi",
+            "zip_code": null,
+            "telecommuting": false,
+            "workplace_type": "hybrid"
+        },
+        "locations": [
+            {
+                "location_id": "125e",
+                "country_code": "AE",
+                "country_name": "United Arab Emirates",
+                "state_code": "Abu Dhabi",
+                "subregion": "Abu Dhabi",
+                "zip_code": null,
+                "city": "Abu Dhabi",
+                "coords": "24.453884, 54.37734380000006",
+                "hidden": false
+            }
+        ],
+        "created_at": "2023-11-07T12:33:15Z"
+    },
+    {
+        "id": "370a5c",
+        "title": "UX/UI Designer",
+        "full_title": "UX/UI Designer - UX/UI1",
+        "shortcode": "17DC12C43A",
+        "code": "UX/UI1",
+        "state": "closed",
+        "sample": false,
+        "department": "Product",
+        "department_hierarchy": [
+            {
+                "id": 319466,
+                "name": "Product"
+            }
+        ],
+        "url": "https://alpheya.workable.com/jobs/3605898",
+        "application_url": "https://alpheya.workable.com/jobs/3605898/candidates/new",
+        "shortlink": "https://apply.workable.com/j/17DC12C43A",
+        "location": {
+            "location_str": "Abu Dhabi, United Arab Emirates",
+            "country": "United Arab Emirates",
+            "country_code": "AE",
+            "region": "Abu Dhabi",
+            "region_code": "Abu Dhabi",
+            "city": "Abu Dhabi",
+            "zip_code": null,
+            "telecommuting": false,
+            "workplace_type": "hybrid"
+        },
+        "locations": [
+            {
+                "location_id": "125e",
+                "country_code": "AE",
+                "country_name": "United Arab Emirates",
+                "state_code": "Abu Dhabi",
+                "subregion": "Abu Dhabi",
+                "zip_code": null,
+                "city": "Abu Dhabi",
+                "coords": "24.453884, 54.37734380000006",
+                "hidden": false
+            }
+        ],
+        "created_at": "2023-11-29T05:45:23Z"
+    },
+    {
+        "id": "370a60",
+        "title": "QA Lead",
+        "full_title": "QA Lead - QA1",
+        "shortcode": "30ADA38F5F",
+        "code": "QA1",
+        "state": "closed",
+        "sample": false,
+        "department": "Technology",
+        "department_hierarchy": [
+            {
+                "id": 319464,
+                "name": "Technology"
+            }
+        ],
+        "url": "https://alpheya.workable.com/jobs/3605902",
+        "application_url": "https://alpheya.workable.com/jobs/3605902/candidates/new",
+        "shortlink": "https://apply.workable.com/j/30ADA38F5F",
+        "location": {
+            "location_str": "Abu Dhabi, United Arab Emirates",
+            "country": "United Arab Emirates",
+            "country_code": "AE",
+            "region": "Abu Dhabi",
+            "region_code": "Abu Dhabi",
+            "city": "Abu Dhabi",
+            "zip_code": null,
+            "telecommuting": false,
+            "workplace_type": "hybrid"
+        },
+        "locations": [
+            {
+                "location_id": "125e",
+                "country_code": "AE",
+                "country_name": "United Arab Emirates",
+                "state_code": "Abu Dhabi",
+                "subregion": "Abu Dhabi",
+                "zip_code": null,
+                "city": "Abu Dhabi",
+                "coords": "24.453884, 54.37734380000006",
+                "hidden": false
+            }
+        ],
+        "created_at": "2023-11-29T05:52:37Z"
+    },
+    {
+        "id": "370a62",
+        "title": "Data Engineer Lead",
+        "full_title": "Data Engineer Lead - Data1",
+        "shortcode": "7E08887978",
+        "code": "Data1",
+        "state": "closed",
+        "sample": false,
+        "department": "Technology",
+        "department_hierarchy": [
+            {
+                "id": 319464,
+                "name": "Technology"
+            }
+        ],
+        "url": "https://alpheya.workable.com/jobs/3605904",
+        "application_url": "https://alpheya.workable.com/jobs/3605904/candidates/new",
+        "shortlink": "https://apply.workable.com/j/7E08887978",
+        "location": {
+            "location_str": "Abu Dhabi, United Arab Emirates",
+            "country": "United Arab Emirates",
+            "country_code": "AE",
+            "region": "Abu Dhabi",
+            "region_code": "Abu Dhabi",
+            "city": "Abu Dhabi",
+            "zip_code": null,
+            "telecommuting": false,
+            "workplace_type": "hybrid"
+        },
+        "locations": [
+            {
+                "location_id": "125e",
+                "country_code": "AE",
+                "country_name": "United Arab Emirates",
+                "state_code": "Abu Dhabi",
+                "subregion": "Abu Dhabi",
+                "zip_code": null,
+                "city": "Abu Dhabi",
+                "coords": "24.453884, 54.37734380000006",
+                "hidden": false
+            }
+        ],
+        "created_at": "2023-11-29T05:59:21Z"
+    },
+    {
+        "id": "370a6a",
+        "title": "Office Manager",
+        "full_title": "Office Manager - Office1",
+        "shortcode": "D7D6561661",
+        "code": "Office1",
+        "state": "closed",
+        "sample": false,
+        "department": "Office Management",
+        "department_hierarchy": [
+            {
+                "id": 319462,
+                "name": "Corporate Affairs"
+            },
+            {
+                "id": 319471,
+                "name": "Office Management"
+            }
+        ],
+        "url": "https://alpheya.workable.com/jobs/3605912",
+        "application_url": "https://alpheya.workable.com/jobs/3605912/candidates/new",
+        "shortlink": "https://apply.workable.com/j/D7D6561661",
+        "location": {
+            "location_str": "Abu Dhabi, United Arab Emirates",
+            "country": "United Arab Emirates",
+            "country_code": "AE",
+            "region": "Abu Dhabi",
+            "region_code": "Abu Dhabi",
+            "city": "Abu Dhabi",
+            "zip_code": null,
+            "telecommuting": false,
+            "workplace_type": "on_site"
+        },
+        "locations": [
+            {
+                "location_id": "125e",
+                "country_code": "AE",
+                "country_name": "United Arab Emirates",
+                "state_code": "Abu Dhabi",
+                "subregion": "Abu Dhabi",
+                "zip_code": null,
+                "city": "Abu Dhabi",
+                "coords": "24.453884, 54.37734380000006",
+                "hidden": false
+            }
+        ],
+        "created_at": "2023-11-29T06:07:13Z"
+    },
+    {
+        "id": "370a79",
+        "title": "Head of Information Security",
+        "full_title": "Head of Information Security - InfoSec1",
+        "shortcode": "3C1F2A76B9",
+        "code": "InfoSec1",
+        "state": "closed",
+        "sample": false,
+        "department": "Technology",
+        "department_hierarchy": [
+            {
+                "id": 319464,
+                "name": "Technology"
+            }
+        ],
+        "url": "https://alpheya.workable.com/jobs/3605927",
+        "application_url": "https://alpheya.workable.com/jobs/3605927/candidates/new",
+        "shortlink": "https://apply.workable.com/j/3C1F2A76B9",
+        "location": {
+            "location_str": "Abu Dhabi, United Arab Emirates",
+            "country": "United Arab Emirates",
+            "country_code": "AE",
+            "region": "Abu Dhabi",
+            "region_code": "Abu Dhabi",
+            "city": "Abu Dhabi",
+            "zip_code": null,
+            "telecommuting": false,
+            "workplace_type": "hybrid"
+        },
+        "locations": [
+            {
+                "location_id": "125e",
+                "country_code": "AE",
+                "country_name": "United Arab Emirates",
+                "state_code": "Abu Dhabi",
+                "subregion": "Abu Dhabi",
+                "zip_code": null,
+                "city": "Abu Dhabi",
+                "coords": "24.453884, 54.37734380000006",
+                "hidden": false
+            }
+        ],
+        "created_at": "2023-11-29T06:25:59Z"
+    }
+]
